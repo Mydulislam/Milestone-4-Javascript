@@ -9,7 +9,8 @@ var isSingle = true;
 
 // two types of number: Integer: 120,
 // float, decimal: 3.65,  
-
+var $_nn = 7;
+console.log($_nn);
 //variable naming convention: rules, best practice
 /**
  * 1. single word
