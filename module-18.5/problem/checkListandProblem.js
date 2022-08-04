@@ -1,37 +1,41 @@
  /*==============================================================
     1 ) What is javascript?
  /*==============================================================*/
-   /*  ans: Javascript is the programming language for the web. Javascript can change update and change
-        both HTML and CSS. Javascript can calculate, manipulate and validate Data. 
-        Javascript is a scripting and programming language that alows you to implement complex 
-        features on the web pages. */
+   var ans =`Javascript is the programming language for the web. 
+   Javascript can change update and change both HTML and CSS. 
+   Javascript can calculate, manipulate and validate Data. 
+   Javascript is a scripting and programming language that alows 
+   you to implement complex features on the web pages.`
  /*==============================================================
     2 ) How does javascript work? জাভাস্ক্রিপ্ট কিভাবে কাজ করে সেটা কি জানো?
  /*==============================================================*/
-    /* ans: A source code pass through a program called a compiler,which translate it into bytecode
-    that the machine understand and can execute. it contrast javascript has no compilation step.
-    an interpreter in the browser reads over the javascript code interprets each line, and runs it. */ 
+   var ans = `A source code pass through a program called a compiler,
+   which translate it into bytecode that the machine understand and can execute.
+   it contrast javascript has no compilation step.an interpreter in the browser
+    reads over the javascript code interprets each line, and runs it.`
  /*==============================================================
     3 ) What is variable? ভেরিয়েবল কি জিনিস?
  /*==============================================================*/
-    /* ans: Variable means anything tha can vary. In javascript variable is store the data value 
-    that can be changed later on. */  
+    var ans = `Variable means anything tha can vary. In javascript 
+    variable is store the data value that can be changed later on.`   
  /*==============================================================
     4 ) How to declare variable? ভেরিয়েবল কিভাবে ডিক্লেয়ার করে 
  /*==============================================================*/
-   /*  ans: Declare a javascript variable specify the type, leave at least one space,
+   var ans = `Declare a javascript variable specify the type, leave at least one space,
     then the Name for the variable and end the line with a semicolon. Declare the variable with
-    var,let,const keyword. */
+    var,let,const keyword.`
  /*==============================================================
-    5 ) How to change or update the value of a variable.? ভেরিয়েবল এর মান কিভাবে চেইঞ্জ করে বা আপডেট করে। 
+    5 ) How to change or update the value of a variable.? ভেরিয়েবল 
+    এর মান কিভাবে চেইঞ্জ করে বা আপডেট করে। 
  /*==============================================================*/
-    /* ans:  This way, we have to repeat the variable Name when we assign them to something.
+    var ans = `This way, we have to repeat the variable Name when we assign them to something.`
     var a = 10;
     a = 20;
     console.log(a)
-    Now the 'a' variable value is 20. */
+    /*Now the 'a' variable value is 20. */
  /*==============================================================
-    6 ) What are the types of variables? What are they? what are they কি কি ধরণের ভেরিয়েবল হয়। সেগুলা কি কি?
+    6 ) What are the types of variables? What are they? what are they কি কি ধরণের 
+    ভেরিয়েবল হয়। সেগুলা কি কি?
  /*==============================================================*/
   var ans = `The types of variable is primitive an non-primitive(object). The primitive types is 
         a) number(int,float) b) string c) boolean d) Null e) undefined f)symbole 
