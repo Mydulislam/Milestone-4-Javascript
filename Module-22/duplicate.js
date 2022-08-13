@@ -14,3 +14,11 @@ function removeDuplicate(names){
 
 const uniqueNames = removeDuplicate(names);
 console.log(uniqueNames);
+
+var a = [10];
+function dd(){
+    a[0] = 20; 
+}
+
+dd()
+console.log(a)
